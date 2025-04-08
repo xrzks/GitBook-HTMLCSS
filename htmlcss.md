@@ -6,7 +6,7 @@
 |----------------------------------|-----------------------------------------------------------|
 | **Klasse**                       | 5ia24c                                                    |
 | **Lehrperson**                   | Selina Gahlinger                                          |
-| **Abgabetermine**                | 01.07.2025                                                          |
+| **Abgabetermine**                | 01.07.2025                                                |
 
 ## Inhaltsverzeichnis
 
@@ -20,6 +20,15 @@
 
  
 ## 1. Einleitung
+
+In diesem Dokument ...
+
+Auftrag:
+
+Um was geht es im Dokument:
+
+Ziele von dem fertigen DOkument:
+
 ## 2. Informieren
 ## 3. Planen
 ## 4. Entscheiden
@@ -27,20 +36,6 @@
 ## 6. Kontrollieren
 ## 7. Auswerten
 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​
 
 
  
