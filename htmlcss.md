@@ -17,6 +17,17 @@
 5. [Realisieren](#5-realisieren)  
 6. [Kontrollieren](#6-kontrollieren)  
 7. [Auswerten](#7-auswerten)
+
+ 
+## 1. Einleitung
+## 2. Informieren
+## 3. Planen
+## 4. Entscheiden
+## 5. Realisieren
+## 6. Kontrollieren
+## 7. Auswerten
+
+
 ​ 
 
 ​ 
