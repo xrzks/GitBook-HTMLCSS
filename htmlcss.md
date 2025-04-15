@@ -9,11 +9,12 @@
 ## 📖 Inhaltsverzeichnis
 
 1. [Einführung in HTML & CSS](#einführung-in-html--css)  
-2. [HTML-Grundlagen](#html-grundlagen)  
-3. [CSS-Grundlagen](#css-grundlagen)  
-4. [Layout & Positionierung](#layout--positionierung)  
-5. [Responsive Design](#responsive-design)  
-6. [Übungen](#übungen)
+2. [HTML-Grundlagen](#-html-grundlagen)  
+3. [CSS-Grundlagen](#-css-grundlagen)  
+4. [Layout & Positionierung](#-layout--positionierung)  
+5. [Responsive Design](#-responsive-design)  
+6. [Übungen](#-übungen)  
+7. [Übungen mit Lösungen & Erklärungen](#-übungen-mit-lösungen--erklärungen)
 
 ---
 
