@@ -14,7 +14,6 @@
 4. [Layout & Positionierung](#-layout--positionierung)  
 5. [Responsive Design](#-responsive-design)  
 6. [Übungen](#-übungen)  
-7. [Übungen mit Lösungen & Erklärungen](#-übungen-mit-lösungen--erklärungen)
 
 ---
 
