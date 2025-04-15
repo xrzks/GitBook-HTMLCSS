@@ -1,6 +1,4 @@
 # GitBook-HTMLCSS
-### fett
-
 
 | **Autoren**                      | Kiara Baldo, Flurin Kläy, Mikolaj Spychala, Simon Kaiser |
 |----------------------------------|-----------------------------------------------------------|
