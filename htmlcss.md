@@ -6,37 +6,39 @@
 | **Lehrperson**                   | Selina Gahlinger                                          |
 | **Abgabetermine**                | 01.07.2025                                                |
 
-## Inhaltsverzeichnis
+## 📖 Inhaltsverzeichnis
 
-1. [Einleitung](#1-einleitung)
-2. [Informieren](#2-informieren) 
-3. [Planen](#3-planen)  
-4. [Entscheiden](#4-entscheiden)  
-5. [Realisieren](#5-realisieren)  
-6. [Kontrollieren](#6-kontrollieren)  
-7. [Auswerten](#7-auswerten)
+1. [Einführung in HTML & CSS](#einführung-in-html--css)  
+2. [HTML-Grundlagen](#html-grundlagen)  
+3. [CSS-Grundlagen](#css-grundlagen)  
+4. [Layout & Positionierung](#layout--positionierung)  
+5. [Responsive Design](#responsive-design)  
+6. [Übungen](#übungen)  
+7. [Glossar](#glossar)  
+8. [Ressourcen & Links](#ressourcen--links)
 
-## 1. Einleitung
+---
 
-In diesem Dokument ...
+## Einführung in HTML & CSS
 
-Auftrag:
+HTML und CSS bilden das Grundgerüst jeder modernen Webseite.  
+- **HTML (HyperText Markup Language)** strukturiert den Inhalt.
+- **CSS (Cascading Style Sheets)** gestaltet das Aussehen.
 
-Um was geht es im Dokument:
+👉 **Beispiel:**  
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meine erste Seite</title>
+  <style>
+    body { background-color: lightblue; }
+  </style>
+</head>
+<body>
+  <h1>Hallo Welt!</h1>
+  <p>Willkommen auf meiner Webseite.</p>
+</body>
+</html>
 
-Ziele von dem fertigen DOkument:
-
-## 2. Informieren
-
-- Zuerst haben wir uns ein bisschen zum Markdown informiert und uns zur Gestaltung Ideen und Inspiration gesucht.
-
-- Wir haben unser Wissen nur kurz aufgefrischt, da wie in unseren Betrieben und in der SChule erste gerade HTMl und CSS hatten.
-- 
-- Danach haben wir das grobe Layout von der Dokumentation gemacht
-
-## 3. Planen
-## 4. Entscheiden
-## 5. Realisieren
-## 6. Kontrollieren
-## 7. Auswerten
 
