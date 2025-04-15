@@ -31,8 +31,10 @@ Ziele von dem fertigen DOkument:
 
 - Zuerst haben wir uns ein bisschen zum Markdown informiert und uns zur Gestaltung Ideen und Inspiration gesucht.
 - Wir haben unser Wissen nur kurz aufgefrischt, da wie in unseren Betrieben und in der SChule erste gerade HTMl und CSS hatten.
+- Danach haben wir das grobe Layout von der Dokumentation gemacht
   
 ## 3. Planen
+- 
 
 ## 4. Entscheiden
 ## 5. Realisieren
