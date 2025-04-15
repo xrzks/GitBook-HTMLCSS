@@ -13,9 +13,7 @@
 3. [CSS-Grundlagen](#css-grundlagen)  
 4. [Layout & Positionierung](#layout--positionierung)  
 5. [Responsive Design](#responsive-design)  
-6. [Übungen](#Übungen)  
-7. [Glossar](#glossar)  
-8. [Ressourcen & Links](#ressourcen--links)
+6. [Übungen](#übungen)
 
 ---
 
@@ -41,6 +39,8 @@ HTML und CSS bilden das Grundgerüst jeder modernen Webseite.
 </body>
 </html>
 ```
+
+---
 
 ## 📄 HTML-Grundlagen
 
@@ -70,6 +70,8 @@ HTML und CSS bilden das Grundgerüst jeder modernen Webseite.
 | `<ol>`    | Geordnete Liste      |
 | `<li>`    | Listenelement        |
 | `<table>` | Tabelle              |
+
+---
 
 ## 🎨 CSS-Grundlagen
 
@@ -105,6 +107,8 @@ h1 {
 }
 ```
 
+---
+
 ## 🧱 Layout & Positionierung
 
 ### 🔹 Box-Modell
@@ -136,6 +140,7 @@ Jedes HTML-Element ist eine Box:
 ```
 
 ### 🔹 Grid Beispiel
+
 ```css
 .grid {
   display: grid;
@@ -143,9 +148,12 @@ Jedes HTML-Element ist eine Box:
 }
 ```
 
+---
+
 ## 📱 Responsive Design
 
 ### 🔹 Media Queries
+
 ```css
 @media (max-width: 600px) {
   body {
@@ -157,9 +165,11 @@ Jedes HTML-Element ist eine Box:
 Webseiten sollen auf allen Geräten gut aussehen.  
 Verwende relative Einheiten wie %, em, vh, vw anstelle fester Pixel (px).
 
+---
+
 ## 🧪 Übungen
 
-(Die Lösungen sind im nächsten Kapitel zu finden.)
+(Die Lösungen folgen im nächsten Kapitel.)
 
 1. HTML-Grundstruktur schreiben  
 2. Ein Bild und Link einbauen  
@@ -171,6 +181,8 @@ Verwende relative Einheiten wie %, em, vh, vw anstelle fester Pixel (px).
 8. Grid-Galerie  
 9. Tabelle gestalten  
 10. Seite responsive machen
+
+
 
 # 🧪 Übungen mit Lösungen & Erklärungen
 
